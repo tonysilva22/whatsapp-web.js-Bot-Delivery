@@ -50,7 +50,8 @@ Antes de usar o bot, siga estas etapas:
 1. Instale as dependências:
 
    ```bash
-   npm install qrcode-terminal whatsapp-web.js fs
+   npm install qrcode-terminal 
+   npm install whatsapp-web.js 
    ```
 
 2. Inicie o bot com o comando:
